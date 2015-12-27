@@ -1,0 +1,20 @@
+[
+  {
+    "apk_name": "MMM",
+    "apk_icon": "http",
+    "apk_download_url": "https://play.google.com/store/apps/details?id=org.unlimitales.mmm",
+    "is_google_play": true
+  },
+  {
+    "apk_name": "動漫之門 Anime;Gate",
+    "apk_icon": "http",
+    "apk_download_url": "https://github.com/TakumaMochizuki/Takuma-Apk-List/raw/master/AnimeGate/AnimeGate.apk",
+    "is_google_play": false
+  },
+  {
+    "apk_name": "台灣機場通",
+    "apk_icon": "http",
+    "apk_download_url": "https://play.google.com/store/apps/details?id=com.takumalee.app.airtranslink",
+    "is_google_play": true
+  }
+]
