@@ -1,6 +1,6 @@
 {
-  "update_version": "0.7.5",
-  "update_version_code": 29,
+  "update_version": "0.7.6",
+  "update_version_code": 30,
   "update_link": "https://github.com/TakumaMochizuki/Takuma-Apk-List/raw/master/AnimeGate/AnimeGate.apk",
-  "update_force": true
+  "update_force": false
 }
